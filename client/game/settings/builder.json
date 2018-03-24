@@ -1,0 +1,28 @@
+{
+  "appKey": "",
+  "appSecret": "",
+  "excludeScenes": [],
+  "includeAnySDK": false,
+  "includeSDKBox": false,
+  "includeSdk": [
+    "anysdk"
+  ],
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "com.jzc.qmmj",
+  "privateKey": "",
+  "renderMode": "0",
+  "startScene": "4a1acad9-ce88-4334-aa62-bf23a5ccc79e",
+  "title": "qmmj",
+  "webOrientation": "landscape"
+}
