@@ -45,7 +45,7 @@
     "_globalZOrder": 0,
     "_opacityModifyRGB": false,
     "groupIndex": 0,
-    "autoReleaseAssets": false
+    "autoReleaseAssets": null
   },
   {
     "__type__": "cc.Node",
@@ -117,7 +117,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "z_loading",
+    "_name": "img_bg",
     "_objFlags": 0,
     "_parent": {
       "__id__": 2
@@ -195,7 +195,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "New Label",
+    "_name": "txt_msg",
     "_objFlags": 0,
     "_parent": {
       "__id__": 2
@@ -327,7 +327,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "public_frame_a",
+    "_name": "img_bg",
     "_objFlags": 0,
     "_parent": {
       "__id__": 7
@@ -407,7 +407,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "New Label",
+    "_name": "txt_msg",
     "_objFlags": 0,
     "_parent": {
       "__id__": 7
@@ -501,7 +501,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "public_btn_ok",
+    "_name": "btn_sure",
     "_objFlags": 0,
     "_parent": {
       "__id__": 7
@@ -607,8 +607,6 @@
     },
     "duration": 0.1,
     "zoomScale": 1.2,
-    "pressedSprite": null,
-    "hoverSprite": null,
     "clickEvents": [
       {
         "__id__": 16
@@ -631,6 +629,10 @@
       "a": 255
     },
     "_N$normalSprite": null,
+    "_N$pressedSprite": null,
+    "pressedSprite": null,
+    "_N$hoverSprite": null,
+    "hoverSprite": null,
     "_N$disabledSprite": null,
     "_N$target": {
       "__id__": 13
